@@ -1,16 +1,41 @@
-# React + Vite
+# 3D Website React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![3D Demo](Vídeo/3d.gif)
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## React Compiler
+- [React](https://react.dev/) - v19.1.1
+- [Vite](https://vitejs.dev/) - v7.1.7
+- [Tailwind CSS](https://tailwindcss.com/) - v3.4.18
+- [@splinetool/react-spline](https://spline.design/) - v4.1.0 (Para elementos 3D)
+- [Boxicons](https://boxicons.com/) - v2.1.4 (Para ícones)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Projeto
 
-## Expanding the ESLint configuration
+Este é um website moderno desenvolvido com React, apresentando elementos 3D interativos usando Spline e uma interface responsiva com Tailwind CSS. O projeto combina design moderno com interatividade 3D para criar uma experiência única.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Instalação
+
+```bash
+# Clone este repositório
+git clone https://github.com/GLessa0/3D-Website-React.git
+
+# Acesse a pasta do projeto
+cd 3D-Website-React
+
+# Instale as dependências
+npm install
+
+# Execute a aplicação
+npm run dev
+```
+
+## 🎨 Layout
+
+O projeto utiliza um layout moderno com:
+- Elementos 3D interativos
+- Design responsivo
+- Gradientes e efeitos visuais
+- Interface limpa e moderna
