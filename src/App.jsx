@@ -6,7 +6,7 @@ export default function App() {
     <main>
       {/* Gradient image*/}
       <img
-        className="absolute top-0 left-0 w-full h-full object-cover opacity-60 -z-10"
+        className="fixed inset-0 w-full h-full object-cover opacity-60 -z-10"
         src="/transparent-gradient-fade-free-png.png"
         alt="Gradient background"
       />
@@ -14,7 +14,7 @@ export default function App() {
     <Header />
 
     <Hero />
-
+    
     </main>
   )
 }
